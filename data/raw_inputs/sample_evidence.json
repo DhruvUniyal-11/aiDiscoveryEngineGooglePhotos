@@ -1,0 +1,56 @@
+[
+  {
+    "raw_id": "RAW-REDDIT-001",
+    "source_platform": "Reddit",
+    "source_url": "https://www.reddit.com/r/googlephotos/comments/1a2b3c/cant_find_photo_from_goa_cafe/",
+    "source_date": "2026-04-12",
+    "raw_text": "I spent an hour looking for that small café we went to during our Goa trip last year. I know we were sitting outside on blue chairs, but I can't remember the café name or exact date. I searched 'Goa café' and 'Goa restaurant' in Google Photos, but it only showed generic beach photos and landmark pictures. Why can't it find photos based on the setting?",
+    "author_or_user": "u/photo_traveler",
+    "search_query": "can't find old photos"
+  },
+  {
+    "raw_id": "RAW-PLAYSTORE-002",
+    "source_platform": "Google Play Store",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=gp:AOqpTOE123",
+    "source_date": "2026-03-20",
+    "raw_text": "Search is terrible when you don't know the exact date. I needed to find a photo of a prescription medicine bottle I took last year when I was sick. I typed 'medicine bottle' and 'sick' but zero results came up. I had to manually scroll through 8,000 photos from 2025 to find it. Please add better visual search filters!",
+    "author_or_user": "Ankit R.",
+    "search_query": "forgot when photo was taken"
+  },
+  {
+    "raw_id": "RAW-GOOGLEHELP-003",
+    "source_platform": "Google Photos Help Community",
+    "source_url": "https://support.google.com/photos/thread/987654321/finding-old-birthday-picture-sitting-outside",
+    "source_date": "2026-05-02",
+    "raw_text": "My friend's birthday was a couple of years ago and we were sitting outside on a patio. I searched 'birthday' and 'sitting outside', but Photos only brings up tagged faces. My friend isn't tagged so search returned nothing. Is there a way to search by event context instead of tagged names?",
+    "author_or_user": "Sarah_M",
+    "search_query": "remember photo but can't find"
+  },
+  {
+    "raw_id": "RAW-REDDIT-004",
+    "source_platform": "Reddit",
+    "source_url": "https://www.reddit.com/r/techsupport/comments/x9y8z7/screenshot_of_train_ticket_lost_in_google_photos/",
+    "source_date": "2026-01-15",
+    "raw_text": "I booked a train ticket months ago and took a screenshot. Now I need the PNR/seat number, but I can't find the screenshot. I searched 'train ticket' and 'IRCTC', but Lens didn't index the text properly because it was dark mode. Gave up searching and searched my email instead.",
+    "author_or_user": "u/dev_guy99",
+    "search_query": "searched for old photo gave up"
+  },
+  {
+    "raw_id": "RAW-APPSTORE-005",
+    "source_platform": "Apple App Store",
+    "source_url": "https://apps.apple.com/us/app/google-photos/id962194608?see-all=reviews&reviewId=10928374",
+    "source_date": "2026-02-18",
+    "raw_text": "Great app for backup, but search sucks for old receipts. I have over 15,000 photos. When I type 'receipt' it gives me 500 images in a huge grid with no way to filter by month or total amount. Result evaluation is impossible without opening every single thumb.",
+    "author_or_user": "PowerUser_SF",
+    "search_query": "search Google Photos by description"
+  },
+  {
+    "raw_id": "RAW-YOUTUBE-006",
+    "source_platform": "YouTube",
+    "source_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&lc=Ugx123abc456",
+    "source_date": "2026-05-28",
+    "raw_text": "I was looking for a photo of my sister and me at a concert in 2024. I typed 'concert with my sister' but Google Photos doesn't understand relationship words like 'sister' unless you manually create a person tag. Had to open Apple Photos which actually groups by shared trip.",
+    "author_or_user": "@music_fanatic",
+    "search_query": "finding old pictures vague memory"
+  }
+]

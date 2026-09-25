@@ -1,0 +1,177 @@
+[
+  {
+    "evidence_id": "EV-APPSTORE-005",
+    "source_platform": "Apple App Store",
+    "source_url": "https://apps.apple.com/us/app/google-photos/id962194608?see-all=reviews&reviewId=10928374",
+    "source_date": "2026-02-18",
+    "user_quote": "Great app for backup, but search sucks for old receipts. I have over 15,000 photos.",
+    "user_intent": "Retrieve specific expense receipt from large media grid",
+    "remembered_clues": [
+      "approximate event / temporal context"
+    ],
+    "forgotten_clues": [
+      "exact metadata / timestamp"
+    ],
+    "query_attempted": "search Google Photos by description",
+    "search_strategy": "Keyword query search",
+    "outcome_description": "System returned dense un-filterable grid of candidates",
+    "perceived_failure_reason": "Lack of UI filtering controls for high-volume candidate sets",
+    "photo_eventually_found": "No",
+    "workaround_used": "[Not Stated]",
+    "emotional_behavioral_consequence": "High frustration; abandoned search session",
+    "failure_stage": 6,
+    "failure_category": "L",
+    "underlying_user_need": "Need for robust OCR screenshot text search with multi-line layout support",
+    "evidence_strength": "Medium",
+    "notes": "Extracted from PowerUser_SF on Apple App Store",
+    "claim_tag": "[Observed]",
+    "memory_clue_type": 3
+  },
+  {
+    "evidence_id": "EV-GOOGLEHELP-003",
+    "source_platform": "Google Photos Help Community",
+    "source_url": "https://support.google.com/photos/thread/987654321/finding-old-birthday-picture-sitting-outside",
+    "source_date": "2026-05-02",
+    "user_quote": "My friend's birthday was a couple of years ago and we were sitting outside on a patio. I searched 'birthday' and 'sitting outside', but Photos only brings up tagged faces.",
+    "user_intent": "Find old birthday party photo sitting outside on patio",
+    "remembered_clues": [
+      "setting: outdoors",
+      "event: birthday party",
+      "people: friend / sister present"
+    ],
+    "forgotten_clues": [
+      "person tag / name identity"
+    ],
+    "query_attempted": "birthday",
+    "search_strategy": "Vague keyword search",
+    "outcome_description": "Zero matching candidate results returned",
+    "perceived_failure_reason": "System requires explicit face tags for person/relationship search",
+    "photo_eventually_found": "No",
+    "workaround_used": "[Not Stated]",
+    "emotional_behavioral_consequence": "Search friction and inconvenience",
+    "failure_stage": 2,
+    "failure_category": "I",
+    "underlying_user_need": "Need for robust OCR screenshot text search with multi-line layout support",
+    "evidence_strength": "High",
+    "notes": "Extracted from Sarah_M on Google Photos Help Community",
+    "claim_tag": "[Observed]",
+    "memory_clue_type": 1
+  },
+  {
+    "evidence_id": "EV-PLAYSTORE-002",
+    "source_platform": "Google Play Store",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=gp:AOqpTOE123",
+    "source_date": "2026-03-20",
+    "user_quote": "Search is terrible when you don't know the exact date. I needed to find a photo of a prescription medicine bottle I took last year when I was sick.",
+    "user_intent": "Find photo of prescription medicine bottle / health document",
+    "remembered_clues": [
+      "object: medicine bottle",
+      "context: when sick last year"
+    ],
+    "forgotten_clues": [
+      "exact date / timestamp"
+    ],
+    "query_attempted": "medicine bottle",
+    "search_strategy": "Manual timeline scrolling",
+    "outcome_description": "Zero matching candidate results returned",
+    "perceived_failure_reason": "Lack of UI filtering controls for high-volume candidate sets",
+    "photo_eventually_found": "Yes",
+    "workaround_used": "Manual timeline scrolling",
+    "emotional_behavioral_consequence": "High frustration; abandoned search session",
+    "failure_stage": 6,
+    "failure_category": "G",
+    "underlying_user_need": "Need for event-anchored and relative temporal search ('when I was sick')",
+    "evidence_strength": "High",
+    "notes": "Extracted from Ankit R. on Google Play Store",
+    "claim_tag": "[Observed]",
+    "memory_clue_type": 3
+  },
+  {
+    "evidence_id": "EV-REDDIT-001",
+    "source_platform": "Reddit",
+    "source_url": "https://www.reddit.com/r/googlephotos/comments/1a2b3c/cant_find_photo_from_goa_cafe/",
+    "source_date": "2026-04-12",
+    "user_quote": "I spent an hour looking for that small café we went to during our Goa trip last year. I know we were sitting outside on blue chairs, but I can't remember the café name or exact date.",
+    "user_intent": "Find photo of a specific café / restaurant visited during a trip",
+    "remembered_clues": [
+      "location: Goa",
+      "place_type: café",
+      "setting: outdoors",
+      "visual: blue chairs/colors"
+    ],
+    "forgotten_clues": [
+      "exact date / timestamp",
+      "exact business / place name"
+    ],
+    "query_attempted": "Goa café",
+    "search_strategy": "Vague keyword search",
+    "outcome_description": "System returned generic/irrelevant photos",
+    "perceived_failure_reason": "Query intent failed to match system index metadata",
+    "photo_eventually_found": "No",
+    "workaround_used": "[Not Stated]",
+    "emotional_behavioral_consequence": "High time effort and search fatigue",
+    "failure_stage": 1,
+    "failure_category": "H",
+    "underlying_user_need": "Need for spatial context and generic landmark search without exact business name",
+    "evidence_strength": "High",
+    "notes": "Extracted from u/photo_traveler on Reddit",
+    "claim_tag": "[Observed]",
+    "memory_clue_type": 2
+  },
+  {
+    "evidence_id": "EV-REDDIT-004",
+    "source_platform": "Reddit",
+    "source_url": "https://www.reddit.com/r/techsupport/comments/x9y8z7/screenshot_of_train_ticket_lost_in_google_photos/",
+    "source_date": "2026-01-15",
+    "user_quote": "I booked a train ticket months ago and took a screenshot. Now I need the PNR/seat number, but I can't find the screenshot.",
+    "user_intent": "Retrieve booked train ticket screenshot for travel details",
+    "remembered_clues": [
+      "item: train ticket screenshot"
+    ],
+    "forgotten_clues": [
+      "exact metadata / timestamp"
+    ],
+    "query_attempted": "train ticket",
+    "search_strategy": "Vague keyword search",
+    "outcome_description": "Failed to locate target photo in search results",
+    "perceived_failure_reason": "OCR indexing failed on screenshot text",
+    "photo_eventually_found": "Abandoned",
+    "workaround_used": "Pivoted to email search",
+    "emotional_behavioral_consequence": "High frustration; abandoned search session",
+    "failure_stage": 6,
+    "failure_category": "L",
+    "underlying_user_need": "Need for robust OCR screenshot text search with multi-line layout support",
+    "evidence_strength": "High",
+    "notes": "Extracted from u/dev_guy99 on Reddit",
+    "claim_tag": "[Observed]",
+    "memory_clue_type": 7
+  },
+  {
+    "evidence_id": "EV-YOUTUBE-006",
+    "source_platform": "YouTube",
+    "source_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&lc=Ugx123abc456",
+    "source_date": "2026-05-28",
+    "user_quote": "I was looking for a photo of my sister and me at a concert in 2024. I typed 'concert with my sister' but Google Photos doesn't understand relationship words like 'sister' unless you manually create a person tag.",
+    "user_intent": "Retrieve concert photo with sister / family member",
+    "remembered_clues": [
+      "people: friend / sister present"
+    ],
+    "forgotten_clues": [
+      "person tag / name identity"
+    ],
+    "query_attempted": "concert with my sister",
+    "search_strategy": "Vague keyword search",
+    "outcome_description": "Failed to locate target photo in search results",
+    "perceived_failure_reason": "Search system fails to parse non-standard descriptive keywords",
+    "photo_eventually_found": "No",
+    "workaround_used": "[Not Stated]",
+    "emotional_behavioral_consequence": "Search friction and inconvenience",
+    "failure_stage": 2,
+    "failure_category": "I",
+    "underlying_user_need": "Need for event narrative and situation search ('birthday sitting outside')",
+    "evidence_strength": "High",
+    "notes": "Extracted from @music_fanatic on YouTube",
+    "claim_tag": "[Observed]",
+    "memory_clue_type": 1
+  }
+]

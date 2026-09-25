@@ -1,0 +1,94 @@
+app:
+  name: "Product Discovery & User Research Engine"
+  domain: "Google Photos Core Experience — Vague-Memory Retrieval Research"
+  owner: "Dhruv (PM)"
+  version: "1.0.0"
+
+execution:
+  mode: "sample"  # Options: dry-run, sample, full
+  output_dir: "output"
+  log_level: "INFO"
+  max_evidence_items: 50
+
+source_platforms:
+  - name: "Google Play Store"
+    enabled: true
+    max_items: 20
+  - name: "Apple App Store"
+    enabled: true
+    max_items: 20
+  - name: "Reddit"
+    enabled: true
+    max_items: 25
+  - name: "Google Photos Help Community"
+    enabled: true
+    max_items: 20
+  - name: "YouTube"
+    enabled: true
+    max_items: 15
+  - name: "X/Twitter & Social Media"
+    enabled: true
+    max_items: 15
+  - name: "Public Technology Forums"
+    enabled: true
+    max_items: 15
+
+target_search_queries:
+  - "can't find old photos"
+  - "forgot when photo was taken"
+  - "search Google Photos by description"
+  - "finding old pictures vague memory"
+  - "Google Photos search not finding photo"
+  - "remember photo but can't find"
+  - "searched for old photo gave up"
+  - "Google Photos search by event or place"
+
+taxonomies:
+  failure_stages:
+    1: "User Cannot Express the Memory (Expression Gap)"
+    2: "System Cannot Understand the Expressed Memory (Intent Mapping Gap)"
+    3: "System Understands but Retrieves Poor Candidates (Ranking & Recall Gap)"
+    4: "Relevant Candidates Exist but Are Hard to Evaluate (Recognition & UI Gap)"
+    5: "User Cannot Effectively Refine a Bad First Query (Refinement Gap)"
+    6: "User Abandons Before Resolving (Abandonment Locus)"
+    7: "Other (Unpredicted Failure Loci)"
+
+  failure_categories:
+    A: "Memory / Recall Problem"
+    B: "Query Expression Problem"
+    C: "System Understanding Problem"
+    D: "Retrieval / Ranking Problem"
+    E: "Result Evaluation Problem"
+    F: "Search Refinement Problem"
+    G: "Temporal Uncertainty"
+    H: "Location Uncertainty"
+    I: "Context / Event Memory Problem"
+    J: "Relationship / People Memory Problem"
+    K: "Visual Memory Problem"
+    L: "Text / Document Memory Problem"
+
+  memory_clue_types:
+    1: "People / Relationships"
+    2: "Place / Location"
+    3: "Time / Temporal"
+    4: "Event / Activity"
+    5: "Object / Item"
+    6: "Visual Appearance"
+    7: "Text / OCR"
+    8: "Narrative / Story"
+    9: "Emotion / Mood"
+
+quality_rules:
+  zero_fabrication: true
+  mandatory_claim_tags:
+    - "[Observed]"
+    - "[Inferred]"
+    - "[Hypothesis]"
+  confidence_labels:
+    - "High"
+    - "Medium"
+    - "Low"
+  frequency_scoring_thresholds:
+    high: 10
+    medium: 4
+    low: 1

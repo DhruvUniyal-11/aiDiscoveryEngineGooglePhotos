@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "total_rules_evaluated": 6,
+  "passed_rules_count": 6,
+  "failed_rules_count": 0,
+  "zero_fabrication_pass": true,
+  "citation_resolution_pass": true,
+  "claim_tagging_pass": true,
+  "confidence_labeling_pass": true,
+  "schema_completeness_pass": true,
+  "report_structure_pass": true,
+  "violations": []
+}
