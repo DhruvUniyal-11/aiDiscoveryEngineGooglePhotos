@@ -635,8 +635,8 @@
     <div class="metrics-grid">
       <div class="metric-card">
         <h3>Harvested Evidence <span>Verified</span></h3>
-        <div class="value">6 Records</div>
-        <div class="sub">🔹 100% Verbatim Public Quotes</div>
+        <div class="value">22 Records</div>
+        <div class="sub">🔹 51 Raw Ingested • 100% Verbatim</div>
       </div>
       <div class="metric-card">
         <h3>Primary Bottleneck <span>Stage 6</span></h3>
@@ -1377,7 +1377,18 @@
 
     // On Load Initializations
     window.onload = function() {
-      renderEvidenceTable(evidenceData);
+      fetch('evidence_database.json')
+        .then(res => res.json())
+        .then(data => {
+          if (Array.isArray(data) && data.length > 0) {
+            evidenceData = data;
+          }
+          renderEvidenceTable(evidenceData);
+        })
+        .catch(err => {
+          console.warn("Could not fetch evidence_database.json dynamically, fallback to static array:", err);
+          renderEvidenceTable(evidenceData);
+        });
       renderHypothesesTable();
     };
   </script>

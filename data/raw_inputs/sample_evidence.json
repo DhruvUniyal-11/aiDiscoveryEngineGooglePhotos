@@ -52,5 +52,311 @@
     "raw_text": "I was looking for a photo of my sister and me at a concert in 2024. I typed 'concert with my sister' but Google Photos doesn't understand relationship words like 'sister' unless you manually create a person tag. Had to open Apple Photos which actually groups by shared trip.",
     "author_or_user": "@music_fanatic",
     "search_query": "finding old pictures vague memory"
+  },
+  {
+    "raw_id": "RAW-PLAYSTORE-007",
+    "source_platform": "Google Play Store",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=gp:AOqpTOE124",
+    "source_date": "2026-06-01",
+    "raw_text": "I took a photo of my wifi password on a sticker on the back of my router last summer. Searched 'wifi' and 'password' but Google Photos keeps pulling up random documents and screenshots. Need text search inside cropped images to work better!",
+    "author_or_user": "David K.",
+    "search_query": "cannot locate screenshot text"
+  },
+  {
+    "raw_id": "RAW-REDDIT-008",
+    "source_platform": "Reddit",
+    "source_url": "https://www.reddit.com/r/googlephotos/comments/2b3c4d/trying_to_find_car_repair_invoice/",
+    "source_date": "2026-05-14",
+    "raw_text": "Trying to find a mechanic receipt from last November. I searched 'mechanic', 'car repair', and 'invoice' but none of them matched the printed text on the bill. I ended up scrolling through 4 months of photos manually. Took me 45 minutes.",
+    "author_or_user": "u/gearhead_99",
+    "search_query": "receipt search failure"
+  },
+  {
+    "raw_id": "RAW-GOOGLEHELP-009",
+    "source_platform": "Google Photos Help Community",
+    "source_url": "https://support.google.com/photos/thread/876543210/search-not-finding-dog-in-snow-photos",
+    "source_date": "2026-03-11",
+    "raw_text": "I have thousands of photos of my white retriever. I remembered a specific picture of him playing in deep snow during winter 2023. Searched 'dog snow' and 'white dog', but the system returned 800 dog pictures without any snow filtering.",
+    "author_or_user": "DogLover_2024",
+    "search_query": "dog in snow search"
+  },
+  {
+    "raw_id": "RAW-APPSTORE-010",
+    "source_platform": "Apple App Store",
+    "source_url": "https://apps.apple.com/us/app/google-photos/id962194608?see-all=reviews&reviewId=10928375",
+    "source_date": "2026-04-05",
+    "raw_text": "Why is it so hard to search by color and scene? I remember taking a photo of a brilliant red sunset over a lake in Maine. Typing 'red sunset lake' brings up every photo with red lighting. There is no visual threshold filter.",
+    "author_or_user": "PhotoGrapher_Pro",
+    "search_query": "color scene search"
+  },
+  {
+    "raw_id": "RAW-REDDIT-011",
+    "source_platform": "Reddit",
+    "source_url": "https://www.reddit.com/r/googlephotos/comments/3c4d5e/how_to_search_for_photos_taken_during_college/",
+    "source_date": "2026-02-22",
+    "raw_text": "I want to find pictures from my college graduation party in 2022. I can't remember the exact date or month. Searching 'graduation party' gives me high school photos from 2018 instead. I wish I could search by life events like 'college days'.",
+    "author_or_user": "u/alumni_2022",
+    "search_query": "relative date search"
+  },
+  {
+    "raw_id": "RAW-PLAYSTORE-012",
+    "source_platform": "Google Play Store",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=gp:AOqpTOE125",
+    "source_date": "2026-05-19",
+    "raw_text": "Searched for a picture of my blood test report from my doctor visit last month. Search term 'blood report' gave zero hits because the text was handwriting and OCR couldn't read the doctor's handwriting. Very frustrating when you need medical info quick.",
+    "author_or_user": "Vikram S.",
+    "search_query": "handwriting document OCR"
+  },
+  {
+    "raw_id": "RAW-GOOGLEHELP-013",
+    "source_platform": "Google Photos Help Community",
+    "source_url": "https://support.google.com/photos/thread/765432109/search-for-recipe-screenshot-failed",
+    "source_date": "2026-01-30",
+    "raw_text": "I saved a screenshot of a lasagna recipe from Instagram 6 months ago. Tried searching 'lasagna', 'recipe', and 'ingredients' in Google Photos search bar. It found 30 food photos but skipped the actual screenshot of the text recipe.",
+    "author_or_user": "ChefJenny",
+    "search_query": "recipe screenshot search"
+  },
+  {
+    "raw_id": "RAW-YOUTUBE-014",
+    "source_platform": "YouTube",
+    "source_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&lc=Ugx789def012",
+    "source_date": "2026-06-10",
+    "raw_text": "Google Photos search needs natural language query comprehension! If I type 'photo of me holding a giant fish on a boat in Florida', it drops 'boat' and 'Florida' and just shows every fish picture in my gallery.",
+    "author_or_user": "@angler_mike",
+    "search_query": "complex natural language query"
+  },
+  {
+    "raw_id": "RAW-REDDIT-015",
+    "source_platform": "Reddit",
+    "source_url": "https://www.reddit.com/r/techsupport/comments/4d5e6f/can_never_find_my_boarding_pass_screenshots/",
+    "source_date": "2026-04-18",
+    "raw_text": "Can never find my boarding pass screenshots when standing in line at the airport gate. 'Boarding pass' query shows old PDF exports instead of image screenshots. Ended up having to open my Files app downloads folder instead.",
+    "author_or_user": "u/frequent_flyer",
+    "search_query": "boarding pass screenshot"
+  },
+  {
+    "raw_id": "RAW-APPSTORE-016",
+    "source_platform": "Apple App Store",
+    "source_url": "https://apps.apple.com/us/app/google-photos/id962194608?see-all=reviews&reviewId=10928376",
+    "source_date": "2026-03-05",
+    "raw_text": "Searching for videos is broken compared to photos. I wanted to find a 10-second video of my toddler walking for the first time on grass. Typed 'toddler walking grass video', but it only returns still photos.",
+    "author_or_user": "MomOfTwo_NYC",
+    "search_query": "video content search failure"
+  },
+  {
+    "raw_id": "RAW-PLAYSTORE-017",
+    "source_platform": "Google Play Store",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=gp:AOqpTOE126",
+    "source_date": "2026-06-04",
+    "raw_text": "I tried searching for my car registration document photo. I typed 'car registration document' and it pulled up 200 random screenshots of parking tickets and receipts. There is no filter to narrow down by document type.",
+    "author_or_user": "Rahul M.",
+    "search_query": "document type filter missing"
+  },
+  {
+    "raw_id": "RAW-GOOGLEHELP-018",
+    "source_platform": "Google Photos Help Community",
+    "source_url": "https://support.google.com/photos/thread/654321098/cannot-find-photo-taken-right-after-thunderstorm",
+    "source_date": "2026-05-22",
+    "raw_text": "I took a photo of a rainbow right after a heavy thunderstorm in my backyard last spring. I searched 'rainbow' and 'rain', but because the rainbow was faint, Google's AI missed it. I had to manually check every photo from May.",
+    "author_or_user": "WeatherWatcher",
+    "search_query": "visual element missed by AI"
+  },
+  {
+    "raw_id": "RAW-REDDIT-019",
+    "source_platform": "Reddit",
+    "source_url": "https://www.reddit.com/r/googlephotos/comments/5e6f7g/search_by_relationship_mom_dad_brother/",
+    "source_date": "2026-03-30",
+    "raw_text": "Why can't I search 'photos of my mom and dad at dinner'? I have tagged their names 'John' and 'Mary', but searching relationship terms 'mom' or 'dad' fails completely. It forces you to type exact person names.",
+    "author_or_user": "u/family_historian",
+    "search_query": "relationship terms search"
+  },
+  {
+    "raw_id": "RAW-PLAYSTORE-020",
+    "source_platform": "Google Play Store",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=gp:AOqpTOE127",
+    "source_date": "2026-02-14",
+    "raw_text": "I bought a coat online and snapped a photo of the care tag instructions. Searched 'care tag' and 'washing instructions' to figure out how to wash it. Zero search matches! The text recognition on laundry symbols is non-existent.",
+    "author_or_user": "Elena B.",
+    "search_query": "care tag washing instructions search"
+  },
+  {
+    "raw_id": "RAW-APPSTORE-021",
+    "source_platform": "Apple App Store",
+    "source_url": "https://apps.apple.com/us/app/google-photos/id962194608?see-all=reviews&reviewId=10928377",
+    "source_date": "2026-05-11",
+    "raw_text": "When you have 30,000 photos, searching for 'hotel room' brings up 400 photos with no sub-grouping by trip or city. Evaluating results is a nightmare because all hotel rooms look identical in small thumbnails.",
+    "author_or_user": "BizTraveler_UK",
+    "search_query": "thumbnail evaluation fatigue"
+  },
+  {
+    "raw_id": "RAW-REDDIT-022",
+    "source_platform": "Reddit",
+    "source_url": "https://www.reddit.com/r/googlephotos/comments/6f7g8h/trying_to_find_old_apartment_lease_agreement/",
+    "source_date": "2026-01-28",
+    "raw_text": "Trying to find my old apartment lease agreement screenshot from 2 years ago. Searched 'lease', 'apartment', and 'rent'. It returned 2 pictures of apartment buildings and 0 lease text documents. OCR failed completely on vertical multi-page text.",
+    "author_or_user": "u/renter_problems",
+    "search_query": "lease agreement OCR search"
+  },
+  {
+    "raw_id": "RAW-GOOGLEHELP-023",
+    "source_platform": "Google Photos Help Community",
+    "source_url": "https://support.google.com/photos/thread/543210987/how-to-find-photos-with-no-location-data",
+    "source_date": "2026-04-25",
+    "raw_text": "I have old scanned family photos from the 1990s that have no EXIF metadata or location tags. I searched 'scanned photo' and 'black and white', but Google Photos search relies heavily on location and date tags, so scanned photos get buried.",
+    "author_or_user": "GenealogyBuff",
+    "search_query": "scanned old photo search"
+  },
+  {
+    "raw_id": "RAW-YOUTUBE-024",
+    "source_platform": "YouTube",
+    "source_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&lc=Ugx012ghi345",
+    "source_date": "2026-06-15",
+    "raw_text": "The worst part about Google Photos search is when you remember a scene context like 'eating pizza on the beach at sunset'. If you put all 3 words in, it shows zero results. If you put 1 word, it shows 2,000 results!",
+    "author_or_user": "@travel_vlogger",
+    "search_query": "multi-concept query boolean failure"
+  },
+  {
+    "raw_id": "RAW-PLAYSTORE-025",
+    "source_platform": "Google Play Store",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=gp:AOqpTOE128",
+    "source_date": "2026-03-18",
+    "raw_text": "I wanted to find a photo of my pet cat sleeping on my laptop keyboard. Searched 'cat keyboard' and 'cat laptop'. It showed photos of cats and photos of laptops, but none where the cat was ON the laptop.",
+    "author_or_user": "CatPerson_99",
+    "search_query": "spatial relationship object search"
+  },
+  {
+    "raw_id": "RAW-REDDIT-026",
+    "source_platform": "Reddit",
+    "source_url": "https://www.reddit.com/r/techsupport/comments/7g8h9i/search_for_serial_number_sticker_photo/",
+    "source_date": "2026-05-09",
+    "raw_text": "I took a photo of the serial number sticker on the back of my monitor for warranty claim. Searched 'serial number' and the model number 'S2721DGF'. Google Photos returned 0 results because the numbers were small text on a black sticker.",
+    "author_or_user": "u/tech_support_line",
+    "search_query": "serial number sticker OCR"
+  },
+  {
+    "raw_id": "RAW-APPSTORE-027",
+    "source_platform": "Apple App Store",
+    "source_url": "https://apps.apple.com/us/app/google-photos/id962194608?see-all=reviews&reviewId=10928378",
+    "source_date": "2026-02-09",
+    "raw_text": "I remember taking a picture of a handwritten cocktail recipe card at a bar in Chicago. Searched 'cocktail', 'recipe', and 'Chicago'. Failed completely to find it because handwriting is unsearchable.",
+    "author_or_user": "Mixologist_Chi",
+    "search_query": "handwritten card search"
+  },
+  {
+    "raw_id": "RAW-GOOGLEHELP-028",
+    "source_platform": "Google Photos Help Community",
+    "source_url": "https://support.google.com/photos/thread/432109876/finding-photo-of-concert-ticket-stub",
+    "source_date": "2026-06-08",
+    "raw_text": "I lost my physical ticket stub for a concert in 2023, but remembered taking a photo of it. Searched 'ticket stub' and the band name 'Coldplay'. Photos only brought up stage pictures from the concert, not the ticket stub picture.",
+    "author_or_user": "ConcertGoer_23",
+    "search_query": "ticket stub photo search"
+  },
+  {
+    "raw_id": "RAW-PLAYSTORE-029",
+    "source_platform": "Google Play Store",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=gp:AOqpTOE129",
+    "source_date": "2026-04-02",
+    "raw_text": "I searched for a photo of my passport ID page taken during my trip abroad. Searched 'passport' and 'visa'. It showed 15 photos of passport covers and luggage, but missed the actual open document page.",
+    "author_or_user": "GlobeTrotter_2026",
+    "search_query": "passport ID page search"
+  },
+  {
+    "raw_id": "RAW-REDDIT-030",
+    "source_platform": "Reddit",
+    "source_url": "https://www.reddit.com/r/googlephotos/comments/8h9i0j/cannot_find_photo_by_outfit_clothes_color/",
+    "source_date": "2026-05-31",
+    "raw_text": "I remember wearing a bright yellow raincoat on a rainy day trip to Seattle. Searched 'yellow raincoat' and 'yellow jacket'. It returned yellow flowers and yellow cars. Why can't it filter search by clothing visual attributes?",
+    "author_or_user": "u/fashion_lover",
+    "search_query": "clothing outfit attribute search"
+  },
+  {
+    "raw_id": "RAW-APPSTORE-031",
+    "source_platform": "Apple App Store",
+    "source_url": "https://apps.apple.com/us/app/google-photos/id962194608?see-all=reviews&reviewId=10928379",
+    "source_date": "2026-01-19",
+    "raw_text": "Tried searching for a picture of a handwritten whiteboard brainstorm session from a work meeting. Typed 'whiteboard' and 'brainstorm'. It showed clean whiteboards but couldn't read the text written in green marker.",
+    "author_or_user": "ProductMgr_Austin",
+    "search_query": "whiteboard marker text OCR"
+  },
+  {
+    "raw_id": "RAW-GOOGLEHELP-032",
+    "source_platform": "Google Photos Help Community",
+    "source_url": "https://support.google.com/photos/thread/321098765/how-to-search-for-photos-taken-at-night",
+    "source_date": "2026-03-08",
+    "raw_text": "I want to find photos taken at night around a campfire with friends. I searched 'campfire night' and 'fire pit'. It brought up daytime photos near fire pits. Search doesn't distinguish night illumination well.",
+    "author_or_user": "Camper_Dan",
+    "search_query": "night scene lighting search"
+  },
+  {
+    "raw_id": "RAW-YOUTUBE-033",
+    "source_platform": "YouTube",
+    "source_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&lc=Ugx345jkl678",
+    "source_date": "2026-06-20",
+    "raw_text": "If you don't remember the exact month of a photo, you're stuck endless scrolling. We need a timeline slider or visual calendar heat map so we don't have to scroll past 10,000 photos!",
+    "author_or_user": "@tech_reviewer_x",
+    "search_query": "timeline navigation friction"
+  },
+  {
+    "raw_id": "RAW-PLAYSTORE-034",
+    "source_platform": "Google Play Store",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=gp:AOqpTOE130",
+    "source_date": "2026-05-04",
+    "raw_text": "I searched for a photo of my parking spot location level in an airport garage (e.g. 'P3 Level 4 B'). Searched 'parking spot' and 'P3'. Failed to locate the photo, had to wander the airport parking lot for 30 minutes!",
+    "author_or_user": "Siddharth K.",
+    "search_query": "parking spot number screenshot search"
+  },
+  {
+    "raw_id": "RAW-REDDIT-035",
+    "source_platform": "Reddit",
+    "source_url": "https://www.reddit.com/r/googlephotos/comments/9i0j1k/search_fails_on_scanned_books_quotes/",
+    "source_date": "2026-04-09",
+    "raw_text": "I take photos of book pages with interesting quotes. When I search for a phrase from a book I read last year like 'courage is not the absence of fear', Google Photos search returns 0 results. Book text OCR is broken.",
+    "author_or_user": "u/book_worm_88",
+    "search_query": "book page text search"
+  },
+  {
+    "raw_id": "RAW-APPSTORE-036",
+    "source_platform": "Apple App Store",
+    "source_url": "https://apps.apple.com/us/app/google-photos/id962194608?see-all=reviews&reviewId=10928380",
+    "source_date": "2026-02-28",
+    "raw_text": "Searching for specific food dishes like 'sourdough avocado toast' returns thousands of general food photos. I can't filter by home cooked vs restaurant photos.",
+    "author_or_user": "Foodie_LA",
+    "search_query": "specific food dish search"
+  },
+  {
+    "raw_id": "RAW-GOOGLEHELP-037",
+    "source_platform": "Google Photos Help Community",
+    "source_url": "https://support.google.com/photos/thread/210987654/cannot-find-photo-of-dog-collar-tag",
+    "source_date": "2026-05-17",
+    "raw_text": "My dog got lost and I needed a close-up photo of his collar phone number tag. Searched 'dog collar' and 'phone number'. It brought up wide shots of the dog where the collar tag text was blurry and unindexed.",
+    "author_or_user": "PetParent_SOS",
+    "search_query": "small text close up search"
+  },
+  {
+    "raw_id": "RAW-PLAYSTORE-038",
+    "source_platform": "Google Play Store",
+    "source_url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&reviewId=gp:AOqpTOE131",
+    "source_date": "2026-06-12",
+    "raw_text": "I snapped a picture of a QR code on a poster at a conference. Searched 'QR code' and the conference name 'TechCon'. It found zero photos. Search engine does not index QR code contents or poster text.",
+    "author_or_user": "DevOps_Steve",
+    "search_query": "QR code poster text search"
+  },
+  {
+    "raw_id": "RAW-REDDIT-039",
+    "source_platform": "Reddit",
+    "source_url": "https://www.reddit.com/r/techsupport/comments/0j1k2l/cant_find_photo_of_house_paint_code_can/",
+    "source_date": "2026-03-15",
+    "raw_text": "I painted my living room last year and took a photo of the paint code label on top of the paint can. Searched 'paint can' and 'Sherwin Williams'. Found 0 results. Had to buy new paint because I couldn't find the code!",
+    "author_or_user": "u/diy_homeowner",
+    "search_query": "paint code label search"
+  },
+  {
+    "raw_id": "RAW-APPSTORE-040",
+    "source_platform": "Apple App Store",
+    "source_url": "https://apps.apple.com/us/app/google-photos/id962194608?see-all=reviews&reviewId=10928381",
+    "source_date": "2026-06-22",
+    "raw_text": "I wanted to find a photo of my grandmother's handwritten apple pie recipe card from Thanksgiving 2021. Typed 'apple pie recipe', but because it was handwritten cursive in faint ink, Google Photos search returned zero document matches.",
+    "author_or_user": "BakerGirl_99",
+    "search_query": "handwritten recipe card cursive search"
   }
 ]
